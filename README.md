@@ -17,7 +17,7 @@ Key Results & Findings
 Generated clear and concise health responses
 Applied safety filtering to avoid harmful medical advice
 Gained practical experience in prompt design and response control
-Task 2: Stock Price Prediction (Short-Term)
+## Task 2: Stock Price Prediction (Short-Term)
 Objective
 
 Predict the next day’s stock closing price using historical market data.
@@ -44,7 +44,7 @@ Random Forest performed better due to its ability to capture non-linear patterns
 Time-series handling without shuffling was essential for realistic predictions
 Predictions followed overall market trends but were limited by market volatility
 ## Task 4: Mental Health Support Chatbot (Fine-Tuned LLM)
-## Objective
+Objective
 
 Create an empathetic chatbot capable of responding to emotional and mental health-related conversations.
 
