@@ -2,7 +2,7 @@
 
 This repository showcases multiple AI/ML projects focused on real-world applications such as conversational AI, mental health support, and stock price prediction.
 
-Task 1: General Health Query Chatbot (Prompt Engineering)
+## Task 1: General Health Query Chatbot (Prompt Engineering)
 Objective
 
 Develop a chatbot that answers general health-related questions using an LLM while ensuring safe and user-friendly responses.
@@ -26,14 +26,14 @@ Dataset Used
 
 Data collected using yfinance
 
-Features:
+## Features:
 
 Open
 High
 Low
 Volume
 
-Target:
+## Target:
 
 Next day closing price
 Models Applied
@@ -43,8 +43,8 @@ Key Results & Findings
 Random Forest performed better due to its ability to capture non-linear patterns
 Time-series handling without shuffling was essential for realistic predictions
 Predictions followed overall market trends but were limited by market volatility
-Task 4: Mental Health Support Chatbot (Fine-Tuned LLM)
-Objective
+## Task 4: Mental Health Support Chatbot (Fine-Tuned LLM)
+## Objective
 
 Create an empathetic chatbot capable of responding to emotional and mental health-related conversations.
 
